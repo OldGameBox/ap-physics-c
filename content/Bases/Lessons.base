@@ -1,0 +1,25 @@
+properties:
+  file.folder:
+    displayName: Unit
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Lessons")
+    order:
+      - file.name
+      - file.folder
+      - complete
+      - difficulty
+      - description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: file.folder
+        direction: ASC
+    columnSize:
+      file.name: 178
+      file.folder: 114
+      note.complete: 31
+      note.difficulty: 15
