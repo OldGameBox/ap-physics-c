@@ -1,0 +1,16 @@
+#u1 #vectors #multiplication 
+- (*def.*) (*in physics and mathematics*) the **dot product** (*also known as the scalar product*) is an algebraic operation that *takes two equal-length sequences of numbers* (usually coordinate [[vector|vectors]]) and **returns a single number**.
+- In physics, the dot product is usually used to calculate how much one **vector** *contributes* to another. It essentially measures the alignment of two quantities.
+- ##### Geometric Definition of Dot Product
+	- $$\vec{a}\cdot \vec{b}=||\vec{a}||\,||\vec{b}||\cos{\theta}$$
+	- where $||\vec{a}||$ and $||\vec{b}||$ are the **magnitudes** of the *vectors*, and $\theta$ is the **angle between the vectors**.
+- ##### Algebraic Definition
+	- if $\vec{v_{a}}=(v_{a_{1}}, v_{a_{2}},\dots,v_{a_{n}})$ and $\vec{v_{b}}=(v_{b_{1}}, v_{b_{2}},\dots,v_{b_{n}})$, then
+	- $$\vec{v_{a}}\cdot \vec{v_{b}}=(v_{a_{1}}\cdot v_{b_{1}},\, v_{a_{2}}\cdot v_{b_{2}},\,\dots,\, v_{a_{n}}\cdot v_{b_{n}})$$
+	- where $n$ is the amount of *dimensions*
+- ##### Properties
+	- If the *vectors* are **perpendicular** ($\theta=90^\circ$), the **dot product** is **0**.
+	- If the *vectors* point in the **same direction**, the **dot product** is equal to $||\vec{a}||\,||\vec{b}||$, since $\cos{0^\circ}=1$
+	- If the *vectors* point in **opposite directions**, the **dot product** is $-||\vec{a}||\,||\vec{b}||$
+	- **Commutative**: $\vec{a}\cdot \vec{b}=\vec{b}\cdot \vec{a}$
+	- **Distributive**: $\vec{a}\cdot(\vec{b}+\vec{c})=\vec{a}\cdot \vec{b}+\vec{a}\cdot \vec{c}$

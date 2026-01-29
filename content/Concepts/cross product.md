@@ -1,0 +1,17 @@
+#u1 #vectors #multiplication 
+- (*def.*) a **binary operation** on two [[vector|vectors]] in **three-dimensional space**, that is denoted by the symbol $\times$.
+- It is formally defined as the [[vector]] that is **perpendicular to the plane** containing the two input [[vector|vectors]], with a [[magnitude]] equal to the **area of the parallelogram that the vectors span**.
+- ##### Geometric Definition
+	- The *cross product* $\vec{a}\times \vec{b}$ is defined as a [[vector]] $\vec{c}$ that satisfies the following conditions:
+		- **Direction**: the *vector $\vec{c}$* is **orthogonal** (*perpendicular*) to both $\vec{a}$ and $\vec{b}$.
+		- **Magnitude**: the **length** of the *vector $\vec{c}$* is given by:
+		- $$||\vec{a}\times \vec{b}||=||\vec{a}||\, ||\vec{b}||\sin(\theta)$$
+		- where $\theta$ is the *angle* between $\vec{a}$ and $\vec{b}$ ($0\leq\theta\leq \pi$)
+- ##### Algebraic Definition
+	- If $\vec{a}=(a_{1},a_{2},a_{3})$ and $\vec{b}=(b_{1},b_{2},b_{3})$, the **cross product** is calculated using the **determinant** of a *formal matrix*:
+	- $$\begin{align*}\vec{a} \times \vec{b} & =\begin{vmatrix} i & j & k \\ a_1 & a_2 & a_3 \\ b_1 & b_2 & b_3 \end{vmatrix}\end{align*}$$
+	- *Expanding* this gives the **final vector**:
+	- $$\begin{align*}\vec{a} \times \vec{b} & = (a_2b_3-a_3b_2)i + (a_3b_1-a_1b_3)j+(a_1b_2-a_2b_1)k \end{align*}$$
+- ##### Real Life Applications
+	- **Generating a Normal Vector**
+	- **Measuring Area** - if *divided by 2*, we get the *area of the triangle* formed by the vectors.

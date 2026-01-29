@@ -6,4 +6,4 @@
 	- Vectors **can be written in various ways** depending on *planes/spaces* and *approaches*. ^72ffbd
 		- (*most common*) **tuple notation** - $$\vec{v} = (v_{1},v_{2},\dots,v_{n})$$, where $n$ is amount of dimensions.
 		- (*most common advance notation*) **matrix notation** - $$\vec{v} = \begin{pmatrix}v_{1}\\ v_{2}\\ \dots\\ v_{n-1}\\ v_{n}\end{pmatrix}$$, where $n$ is amount of dimensions.
-		- (*less common*) **unit vector notation** (*aka component notation* ) - $$\vec{v}=v_{x}\mathbf{\hat{i}}+v_{y}\mathbf{\hat{j}}+v_{z}\mathbf{\hat{k}}$$, where $v_{x}$, $v_{y}$, and $v_{z}$ are the scalar components of $v$.
+		- (*less common*) **unit vector notation** (*a.k.a. component notation*) - $$\vec{v}=v_{x}\mathbf{\hat{i}}+v_{y}\mathbf{\hat{j}}+v_{z}\mathbf{\hat{k}}$$, where $v_{x}$, $v_{y}$, and $v_{z}$ are the scalar components of $v$, and where $\mathbf{\hat{i}}$, $\mathbf{\hat{j}}$, and $\mathbf{\hat{k}}$ are **vectors** that *mark the directions of axes*. ^506bfa
