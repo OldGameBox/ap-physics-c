@@ -1,6 +1,5 @@
 ---
 tags:
-  - kinematics
   - dynamics
   - u2
 complete:

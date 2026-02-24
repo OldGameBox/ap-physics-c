@@ -1,6 +1,7 @@
 ---
 tags:
-  - defualt
+  - "#u1"
+  - kinematics
 complete: true
 difficulty: 1
 description: How to find a relation between two displacements that have different accelerations and time.
