@@ -6,4 +6,7 @@
 	- ##### [[1.4 - reference frames and relative motion]]
 	- ##### [[1.5 - motion in 2 and 3 dimensions]]
 
+## additional materials
+- [[axioms, or law of motion]]
+
 ## to-do
