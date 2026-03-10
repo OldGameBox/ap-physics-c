@@ -6,18 +6,18 @@
 	- ##### [[1.4 - reference frames and relative motion]]
 	- ##### [[1.5 - motion in 2 and 3 dimensions]]
 - ### unit 2
-	- [[2.1 - systems and center of mass]]
-	- [[2.2 - forces and free-body diagrams]]
-	- [[2.3 - newton's third law]]
-	- [[2.4 - newton's first law]]
-	- [[2.5 - newton's second law]]
-	- [[2.6 - gravitational force]]
-	- [[2.7 - kinetic and static friction]]
-	- [[2.8 - spring forces]]
-	- [[2.9 - resistive forces]]
-	- [[2.10 - circular motion]]
+	- ##### [[2.1 - systems and center of mass]]
+	- ##### [[2.2 - forces and free-body diagrams]]
+	- ##### [[2.3 - newton's third law]]
+	- ##### [[2.4 - newton's first law]]
+	- ##### [[2.5 - newton's second law]]
+	- ##### [[2.6 - gravitational force]]
+	- ##### [[2.7 - kinetic and static friction]]
+	- ##### [[2.8 - spring forces]]
+	- ##### [[2.9 - resistive forces]]
+	- ##### [[2.10 - circular motion]]
 
 ## additional materials
-- [[axioms, or law of motion]]
+- ##### [[axioms, or law of motion]]
 
 ## to-do
