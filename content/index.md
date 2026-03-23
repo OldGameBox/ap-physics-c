@@ -16,6 +16,12 @@
 	- ##### [[2.8 - spring forces]]
 	- ##### [[2.9 - resistive forces]]
 	- ##### [[2.10 - circular motion]]
+- ### unit 3
+	- ##### [[3.1 - transitional kinetic energy]]
+	- ##### [[3.2 - work]]
+	- ##### [[3.3 - potential energy]]
+	- ##### [[3.4 - conservation of energy]]
+	- ##### [[3.5 - power]]
 
 ## additional materials
 - ##### [[axioms, or law of motion]]
