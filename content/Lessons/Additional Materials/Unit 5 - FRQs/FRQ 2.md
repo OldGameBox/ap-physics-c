@@ -2,7 +2,9 @@
 ![[Pasted image 20260409185205.png]]
 ## Part B
 Write the translational equation of motion for the block.
+
 $$M g \sin(\phi) - T = M a$$
+
 Write the rotational equation of motion for the pulley.
 $$T R = I \alpha$$
 Substitute the given rotational inertia $I = \frac{1}{3} M R^2$ and angular acceleration $\alpha = \frac{a}{R}$.
