@@ -11,10 +11,15 @@
 ## Part b
 #### Linear Graph Analysis
 $$F_f = \mu_k F_N$$
+
 $$\tau_f = F_f R = \mu_k F_N R$$
+
 $$\tau_f = I \alpha = M R^2 \alpha$$
+
 $$\mu_k F_N R = M R^2 \alpha$$
+
 $$\alpha = \frac{\mu_k}{M R} F_N$$
+
 Plot angular acceleration $\alpha$ on the vertical axis. Plot normal force $F_N$ on the horizontal axis. The resulting graph produces a straight line through the origin. The slope $m$ of the line equals $\frac{\mu_k}{M R}$. Calculate $\mu_k$ by multiplying the measured slope $m$ by the values $M$ and $R$.
 
 ## Part c i
@@ -35,14 +40,25 @@ Vertical axis: Square of Time $(\Delta t)^2$
 ## Part d
 #### Calculations
 $$\Delta \theta = 8 \times 2\pi = 16\pi$$
+
 $$\Delta \theta = \frac{1}{2} \alpha (\Delta t)^2$$
+
 $$\alpha = \frac{32 \pi}{(\Delta t)^2}$$
+
 $$\tau_0 = I_{total} \alpha$$
+
 $$\tau_0 = (I_2 + N_s I_s) \frac{32 \pi}{(\Delta t)^2}$$
+
 $$(\Delta t)^2 = \frac{32 \pi I_s}{\tau_0} N_s + \frac{32 \pi I_2}{\tau_0}$$
+
 The vertical intercept $b$ corresponds to the constant term.
+
 $$b = \frac{32 \pi I_2}{\tau_0}$$
+
 $$I_2 = \frac{b \tau_0}{32 \pi}$$
+
 Substitute intercept value $b = 63.6 \text{ s}^2$ and torque $\tau_0 = 0.50 \text{ N}\cdot\text{m}$.
+
 $$I_2 = \frac{(63.6)(0.50)}{32 \pi}$$
+
 $$I_2 = 0.316 \text{ kg}\cdot\text{m}^2$$
