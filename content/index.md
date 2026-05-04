@@ -28,19 +28,10 @@
 	- [[4.3 - conservation of linear momentum]]
 	- [[4.4 - elastic and inelastic collisions]]
 - ### unit 5
-	- [[5.1 - rotational kinematics]]
-	- [[5.2 - connecting linear and rotational motion]]
-	- [[5.3 - torque]]
-	- [[5.4 - rotational inertia]]
-	- [[5.5 - rotational equilibrium and Newton's first law in rotational form]]
-	- [[5.6 - Newton's second law in rotational form]]
+	- [[Unit 5]]
 - ### unit 6
 	- [[6.1 - rotational kinetic energy]]
-	- [[6.2 - torque and work]]
-	- [[6.3 - angular momentum]]
-	- [[6.4 - conservation of angular momentum]]
-	- [[6.5 - rolling]]
-	- [[6.6 - motion of orbiting satellites]]
+	- [[Unit 6]]
 ## additional materials
 - ##### [[axioms, or law of motion]]
 
