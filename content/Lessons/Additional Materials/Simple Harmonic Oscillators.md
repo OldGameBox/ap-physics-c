@@ -1,6 +1,6 @@
 ### Simple Harmonic Motion: Analysis of a Simple Pendulum
 ##### Purpose
-The objective of this experiment is to identify the physical factors that influence the period of a simple pendulum and to determine the specific mathematical relationship between those variables and the resulting motion. By comparing experimental data with the theoretical model for simple harmonic oscillators, the accuracy of the simple pendulum model in a real-world environment can be evaluated.
+This experiment aims to establish the physical factors that affect a basic pendulum's period and to determine the precise mathematical link between those variables and the motion that results. By comparing experimental data with the theoretical model for simple harmonic oscillators, the accuracy of the simple pendulum model in a real-world environment can be evaluated.
 ### Theoretical Background
 The motion of a simple pendulum is a form of simple harmonic motion. Theoretically, the period of a pendulum is defined by the following equation:
 $$T = 2\pi \sqrt{\frac{L}{g}}$$
@@ -8,10 +8,10 @@ In this expression:
 - $T$ represents the period.
 - $L$ represents the length of the pendulum.
 - $g$ represents the acceleration due to gravity (approximately $9.81 \, \text{m/s}^2$).
-Based on this model, the period should depend exclusively on the length of the string and the local gravitational field; it should remain independent of the mass of the bob and the amplitude of the swing (for small angles).
+Based on this model, the period should depend exclusively on the length of the string and the local gravitational field. It should remain independent of the mass of the bob and the amplitude of the swing.
 ### Stage 1: Variable Identification
 ##### Procedure
-To determine which variables influence the period, three independent variables were tested: the mass of the pendulum bob, the initial release angle (amplitude), and the length of the string.
+To determine which variables influence the period, three independent variables were tested: the mass of the pendulum bob, the initial release angle, and the length of the string.
 1. The length was held constant at $29.2 \, \text{cm}$ while the mass was varied between $50 \, \text{g}$ and $100 \, \text{g}$, and the release angle was varied between $20^\circ$ and $30^\circ$.
 2. The process was repeated for a shorter length of $22.1 \, \text{cm}$ to observe consistency.
 3. For each trial, the frequency was measured and the period was calculated.
@@ -52,7 +52,7 @@ The initial plot of Period vs. Length resulted in a curved line, suggesting that
 $$T \propto \sqrt{L}$$
 Equivalently, squaring both sides yields:
 $$T^2 \propto L$$
-These findings align perfectly with the theoretical model, which predicts that a longer pendulum requires more time to complete an oscillation because the period is proportional to the square root of its length.
+This aligns perfectly with the theoretical model, which predicts that a longer pendulum requires more time to complete an oscillation because the period is proportional to the square root of its length.
 ### Error Analysis and Improvements
 ##### Sources of Error
 The experimental results were not perfectly aligned with theoretical values due to the limitations of a non-ideal system.
@@ -64,4 +64,4 @@ To increase precision in future iterations:
 1. **Mechanical Release:** A fixed release mechanism should be used to ensure the starting angle is identical for every trial.
 2. **Improved Length Measurement:** Measurements should be taken from the pivot point to the calculated center of mass of the bob to reduce the percentage of error.
 ### Conclusion
-This investigation confirmed that for a simple pendulum, the period is independent of both the mass of the bob and the amplitude of oscillation. The experimental data clearly established that the length of the pendulum is the determining factor of its period, with the relationship being non-linear. Specifically, the period is proportional to the square root of the length ($T \propto \sqrt{L}$), which is in direct agreement with the theoretical equation for simple harmonic motion.
+This experiment verified that the period of a basic pendulum is independent of both the oscillation amplitude and the bob's mass. The experimental results demonstrated that the pendulum's length determines its period, with a non-linear relationship. In particular, the period is directly consistent with the theoretical equation for simple harmonic motion since it is proportional to the square root of the length ($T \propto \sqrt{L}$).
