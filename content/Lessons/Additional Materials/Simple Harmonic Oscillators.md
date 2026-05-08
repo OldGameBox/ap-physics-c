@@ -8,13 +8,13 @@ In this expression:
 - $T$ represents the period.
 - $L$ represents the length of the pendulum.
 - $g$ represents the acceleration due to gravity (approximately $9.81 \, \text{m/s}^2$).
-Based on this model, the period should depend exclusively on the length of the string and the local gravitational field. It should remain independent of the mass of the bob and the amplitude of the swing.
+According to this theory, the period should only be influenced by the local gravitational field and the string's length. It should not be affected by the bob's mass or the swing's amplitude.
 ### Stage 1: Variable Identification
 ##### Procedure
-To determine which variables influence the period, three independent variables were tested: the mass of the pendulum bob, the initial release angle, and the length of the string.
-1. The length was held constant at $29.2 \, \text{cm}$ while the mass was varied between $50 \, \text{g}$ and $100 \, \text{g}$, and the release angle was varied between $20^\circ$ and $30^\circ$.
-2. The process was repeated for a shorter length of $22.1 \, \text{cm}$ to observe consistency.
-3. For each trial, the frequency was measured and the period was calculated.
+Three separate factors were tried to find out which ones affect the period: the pendulum bob's mass, the angle of release at the start, and the string's length.
+1. The release angle was varied between $20^\circ$ and $30^\circ$, the mass was varied between $50^g$ and $100^g$, and the length was fixed at $29.2cm$.
+2. To check for consistency, the procedure was repeated for a shorter length of $22.1\text{cm}$.
+3. The time was computed and the frequency was measured for every trial.
 ##### Data and Results
 **Table 1: Effects of Mass and Angle on Period**
 
@@ -30,10 +30,10 @@ To determine which variables influence the period, three independent variables w
 |                     | $30$          | $22.1$          | $100$        | $0.45$         |
 
 ##### Analysis and Argument
-The experimental data demonstrates that when the mass was doubled from $50 \, \text{g}$ to $100 \, \text{g}$, the period remained constant at $0.53 \, \text{s}$ (for the $29.2 \, \text{cm}$ trials). Similarly, increasing the release angle from $20^\circ$ to $30^\circ$ produced no significant change in the period. Within the limits of experimental uncertainty, mass and amplitude do not affect the period. However, changing the length from $29.2 \, \text{cm}$ to $22.1 \, \text{cm}$ resulted in a clear reduction in the period from $0.53 \, \text{s}$ to approximately $0.45 \, \text{s}$. Therefore, length is the only variable tested that influences the period.
+The experimental data shows that the period stayed constant at $0.53◦ \text{s}$ (for the $29.2◦ \text{cm}$ trials) when the mass was doubled from $50◦ \text{g}$ to $100◦ \text{g}$. Similarly, there was no significant difference in the period when the release angle was increased from $20^\circ$ to $30^\circ$. Mass and amplitude have no effect on the period within the bounds of experimental uncertainty. However, the period was clearly reduced from $0.53\text{s}$ to around $0.45\text{s}$ when the length was changed from $29.2\text{cm}$ to $22.1\text{cm}$. As a result, the only variable examined that affects the period is length.
 ### Stage 2: Quantitative Relationship
 ##### Procedure
-After identifying length as the primary variable, a series of trials were conducted to determine the exact mathematical relationship between length ($L$) and period ($T$). The length was varied across six increments from $0.088 \, \text{m}$ to $0.291 \, \text{m}$. Mass and release angle were held constant throughout this stage to ensure a fair test.
+To find the precise mathematical relationship between length ($L$) and period ($T$), a number of experiments were carried out after length was determined to be the main variable. Six increments were used to change the length, ranging from $0.088\text{m}$ to $0.291\text{m}$. To guarantee a fair test, mass and release angle were kept constant during this phase.
 ##### Data and Results
 **Table 2: Relationship Between Pendulum Length and Period**
 
