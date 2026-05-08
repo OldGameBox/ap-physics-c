@@ -37,7 +37,7 @@ To find the precise mathematical relationship between length ($L$) and period ($
 ##### Data and Results
 **Table 2: Relationship Between Pendulum Length and Period**
 
-|**Length (m)**|**Frequency (Hz)**|**Period (T in s)**|**L​ (Calculated)**|
+|**Length (m)**|**Frequency (Hz)**|**Period (T in s)**|**L  (Calculated)**|
 |---|---|---|---|
 |$0.291$|$1.8$|$0.53$|$0.539$|
 |$0.254$|$2.2$|$0.48$|$0.504$|
