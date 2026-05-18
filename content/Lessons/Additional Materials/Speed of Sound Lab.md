@@ -27,7 +27,7 @@ $$v=f\lambda$$ where $v$ is the speed of sound in the air and $f$ is the particu
 
 ### Procedure
 
-The device was a hollow pipe, the length of the air column inside which could be varied by changing the water level in the pipe. A sound source generating a constant and known frequency was placed just above the open top of the pipe. The water level was lowered and the length of the air column was slowly and steadily increased. He listened carefully to the volume of the sound. When the sound became noticeably and distinctly louder this indicated that a standing wave had formed and resonance had been achieved. The length of the air column from the open top to the water level was measured exactly and noted down. This was repeated as the water level was lowered further to determine subsequent resonant lengths.
+The device was a hollow pipe, the length of the air column inside which could be varied by changing the water level in the pipe. A sound source generating a constant and known frequency was placed just above the open top of the pipe. The water level was lowered and the length of the air column was slowly and steadily increased. We listened carefully to the volume of the sound. When the sound became noticeably and distinctly louder this indicated that a standing wave had formed and resonance had been achieved. The length of the air column from the open top to the water level was measured exactly and noted down. This was repeated as the water level was lowered further to determine subsequent resonant lengths.
 ### Data
 
 The known frequency of the sound source used in this experiment was 343.78 Hz.
