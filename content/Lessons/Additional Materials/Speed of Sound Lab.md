@@ -1,40 +1,32 @@
-### Purpose
-
-The purpose of this experiment was to determine the speed of sound in air by utilizing resonance within a closed pipe. By identifying the specific lengths of an air column that create resonant standing waves for a sound source of a known frequency, the wavelength of the sound wave was determined. Utilizing the established mathematical relationship between wavelength, frequency, and wave speed, the experimental speed of sound was calculated. This experimental value was then compared directly with the accepted theoretical value of the speed of sound at standard room temperature.
-
-### Theoretical Background
-
-A closed pipe resonator produces standing waves when the frequency of the sound source matches one of the natural harmonic frequencies of the air column inside the pipe. In a pipe that is closed at one end by water and open at the other end, resonance occurs exclusively at odd harmonics. This happens because the closed end forces the air particles to remain still, creating a wave node, while the open end allows maximum movement, creating a wave antinode.
-
-[FLAG: Insert Digitally Generated Image of Standing Waves in a Closed Pipe showing nodes at the closed end and antinodes at the open end here]
-
-The specific lengths of the pipe where resonance occurs are described by the equation:
-
-$$L_n = \frac{n\lambda}{4}$$
-
-where $L_n$ represents the resonant length of the air column, $n$ represents an odd integer such as $1$, $3$, $5$, or $7$, and $\lambda$ represents the total wavelength of the sound wave.
-
-Because resonance occurs at every odd quarter-wavelength, the physical difference in length between any two consecutive resonant points is exactly equal to one-half of the total wavelength. This relationship is written as:
-
-$$\Delta L = \frac{\lambda}{2}$$
-
-Therefore, the total wavelength can be calculated directly from the measured difference between two resonant lengths:
-
-$$\lambda = 2\Delta L$$
-
-After the wavelength is found through the physical measurements of the pipe, the speed of sound is calculated using the wave equation:
-
-$$v = f\lambda$$
-
-where $v$ represents the speed of sound in the air and $f$ represents the specific frequency of the sound source used in the experiment. The theoretical speed of sound depends heavily on the temperature of the air. At a temperature of $21.1^\circ\text{C}$, the accepted theoretical speed of sound is approximately $344\text{ m/s}$.
-
-### Procedure
-
-The apparatus consisted of a hollow pipe where the length of the internal air column could be adjusted by altering the water level inside it. A sound source emitting a constant and known frequency was positioned directly above the open top of the pipe. The length of the air column was slowly and steadily increased by lowering the water level. The observer carefully listened to the volume of the sound. When the sound became noticeably and distinctly louder, this indicated that a standing wave had formed, creating resonance. The exact length of the air column from the open top to the water level was measured and recorded. This process was repeated as the water level was lowered further to find subsequent resonant lengths.
-
-### Data
-
-The known frequency of the sound source used in this experiment was $343.78\text{ Hz}$.
+### The purpose  
+  
+The goal of this experiment is to determine the speed of sound in air by applying resonance in a closed pipe. The wavelength of the sound wave was determined by finding the particular lengths of an air column which give resonant standing waves for a given frequency of sound source. The speed of sound from the experiment is calculated using the mathematical relationship between wavelength, frequency and wave speed established in this work. This experimental value was then directly compared to the accepted theoretical value of the speed of sound at standard room temperature.  
+  
+### Background Theory  
+  
+A closed pipe resonator is a resonator which produces standing waves when the frequency of the sound source is equal to one of the natural harmonic frequencies of the air column within the pipe. A pipe closed at one end and open at the other will resonate only at odd harmonics when filled with water. This is because the closed end forces the air particles to not move, creating a wave node, while the open end allows maximum movement, creating a wave antinode.  
+  
+The lengths of pipe for which resonance occurs are given by the equation:  
+$$L_n=\frac{n\lambda}{4}$$ where $L_n$ is the resonant length of the air column, $n$ is an odd integer such as $1$, $3$, $5$ or $7$ and $\lambda$ is the total wavelength of the sound wave.  
+  
+Resonance occurs at all odd quarter wave length . Thus the physical difference in length between any two adjacent points of resonance is precisely one half of the total wave length . This relationship is expressed by:  
+$$\Delta L = \frac{\lambda}{2}$$  
+  
+Therefore, the total wavelength can be directly calculated from the measured difference of two resonant lengths:  
+$$\lambda = 2 \Delta L$$  
+  
+After obtaining the wavelength from the physical measurements of the pipe, the speed of sound is computed using the wave equation:  
+$$v = f \lambda$$  
+  
+where $v$ is the speed of sound in the air and $f$ is the specific frequency of the sound source used in the experiment. Theoretically, the speed of sound is highly dependent on the temperature of the air. The accepted theoretical speed of sound at $21.1^\circ\text{C}$ is approximately $344\text{ m/s}$.  
+  
+### Methoden  
+  
+The apparatus was a hollow pipe, the length of the air column inside which could be varied by changing the water level in the pipe. A sound source generating a constant and known frequency was placed just above the open top of the pipe. The water level was lowered and the length of the air column was slowly and steadily increased. He listened carefully to the volume of the sound. When the sound became noticeably and distinctly louder this indicated that a standing wave had formed and resonance had been achieved. The length of the air column from the open top to the water level was measured exactly and noted down. This procedure was repeated until a lower water level was reached and further resonant lengths were found.  
+  
+### Data-sets  
+  
+The frequency of the sound source used in this experiment was known to be $343.78\text{ Hz}$. 
 
 |**Resonance Number**|**Measured Length in cm**|**Measured Length in m**|
 |---|---|---|
@@ -42,44 +34,36 @@ The known frequency of the sound source used in this experiment was $343.78\text
 |Second Resonance|76.6|0.766|
 |Third Resonance|82.8|0.828|
 
-### Analysis
-
-To determine the wavelength of the sound wave, the difference in length between neighboring resonance points was calculated. The difference between the first and second resonance points was calculated as follows:
-
-$$76.6 - 65.9 = 10.7$$
-
-The difference between the second and third resonance points was calculated as follows:
-
-$$82.8 - 76.6 = 6.2$$
-
-The measurements gathered were not perfectly consistent across all pairs. Identifying the exact microscopic point of resonance purely by human hearing is very difficult, leading to variation. Because the first pair of resonances provided the most mathematically reasonable result when compared to expected theoretical outcomes, the difference of $10.7\text{ cm}$ was selected as the most reliable measurement for the wavelength calculation.
-
-$$\Delta L = 0.107\text{ m}$$
-
-Using the established mathematical relationship between wavelength and the difference in resonant length, the total wavelength was calculated:
-
-$$\lambda = 2(0.107) = 0.214\text{ m}$$
-
-The experimental speed of sound was then calculated using the known frequency of the sound source and the calculated wavelength.
-
-$$v = f\lambda$$
-
-$$v = (343.78)(0.214)$$
-
-$$v = 73.57\text{ m/s}$$
-
-This calculated experimental value of $73.57\text{ m/s}$ was compared with the theoretical speed of sound at room temperature, which is approximately $344\text{ m/s}$. While the experimental result deviated significantly from the theoretical value due to the recorded length differences, the mathematical procedure successfully demonstrated that finding the nodes of standing waves inside a closed pipe can be used to determine the total wavelength and calculate the corresponding speed of sound in air.
-
-### Concluding Statements
-
-##### Conclusion
-
-In this experiment, the principle of resonance within a closed pipe was successfully utilized to determine the wavelength of a specific sound wave and subsequently calculate the speed of sound in air. The measured resonant lengths physically demonstrated the theoretical standing wave pattern predicted for a closed pipe, confirming that resonance occurs exclusively at odd harmonics where antinodes meet the open air. By calculating the difference between the measured resonant lengths, the wavelength was isolated and determined. This wavelength was then used in conjunction with the source frequency to calculate the experimental speed of sound. Although there was a massive degree of experimental error present in the measurements resulting in a heavily skewed final velocity calculation, the overall procedure confirmed the direct physical relationship between wavelength, frequency, and wave speed for sound waves traveling through air.
-
-##### Possible Sources of Error
-
-The data collected during the experiment contained major inaccuracies primarily because the exact, peak point of resonance was highly difficult to identify relying solely on subjective human hearing, which is evident in the inconsistent distance between the recorded nodes. Minor visual errors or misalignments when measuring the exact water level or reading the ruler against the pipe length also directly affected the final calculated wavelength. Furthermore, background noise in the laboratory environment made it difficult to isolate the sound source, and slight fluctuations in room temperature during the experiment may have subtly altered the actual speed of sound as the physical measurements were being taken.
-
+### Results  
+  
+The wavelength of sound wave was determined by calculating the difference in length of neighboring resonance points. The difference between the first and second resonance points was found as  
+$$76.6 - 65.9 = 10.7$$  
+  
+The difference between the second and third resonance points was calculated to be:  
+$$82.8 - 76.6 = 6.2$$  
+  
+The data collected were not perfectly consistent for all pairs. The exact point of resonance to the microscopic level is very difficult to determine by human hearing alone and varies. The difference of $10.7\text{ cm}$ was chosen as the most reliable measure for the calculation of the wavelength as the first pair of resonances produced the most mathematically reasonable result when compared with expected theoretical results.  
+  
+The change in length is $$\Delta L = 0.107m$$  
+  
+The total wavelength was computed by using the known mathematical relation between wavelength and the difference in resonant length:  
+$$\lambda=2(0.107)=0.214\text{ m}$$  
+  
+The experimental speed of sound was then calculated using the known frequency of the sound source and the calculated wavelength. The velocity can be calculated using the equation $$v = f\lambda$$  
+  
+$$v=(343.78)(0.214)$$  
+  
+$$v = 73.57\text{ m s}^{-1}$$  
+  
+The calculated experimental value was $73.57\text{ m/s}$, which was then compared to the theoretical speed of sound at room temperature, roughly $344\text{ m/s}$. The mathematical procedure was successful in showing that by finding the nodes of standing waves inside a closed pipe the total wavelength can be found and the corresponding speed of sound in air can be calculated. The experimental result differed greatly from the theoretical value due to the recorded length differences.  
+  
+### Final Statements 
+##### Conclusion  
+  
+In this experiment, the principle of resonance in a closed pipe was successfully applied to determine the wavelength of a particular sound wave and subsequently compute the speed of sound in air. The measured resonant lengths physically demonstrated the theoretical standing wave pattern expected for a closed pipe, and showed that resonance occurs only at odd harmonics where antinodes can interact with the open air. The measured resonant lengths were not the same and this difference gave the wavelength. This wavelength was then used with the source frequency to calculate the experimental speed of sound. The overall procedure confirmed the direct physical relationship between wavelength, frequency and wave speed for sound waves travelling through air. Despite the massive degree of experimental error present in the measurements which led to a heavily skewed final velocity calculation.  
+  
+##### Possible sources of error
+The data from the experiment had many inaccuracies, mainly due to the fact that the exact point of resonance peak was very difficult to determine by human subjective hearing alone, as can be seen in the inconsistent distance between the recorded nodes. Also, small visual errors or small errors in aligning to find the exact water level, or in reading the ruler against the pipe length directly affected the final calculated wavelength. Also, the noise in the lab made it hard to tell where the sound was coming from and small changes in room temperature during the experiment could have slightly changed the real speed of sound when the physical measurements were taken.  
+  
 ##### Ways to Improve Accuracy
-
-To significantly improve the accuracy of the final calculation and resolve the large discrepancy between the experimental and theoretical velocity, a larger number of resonance measurements should be collected, and their differences should be averaged out to heavily reduce the impact of random error. Utilizing more precise digital measuring equipment, such as laser distance measurers, would drastically reduce the uncertainty present in the pipe length readings. The overall accuracy of identifying the standing wave nodes could also be vastly improved by performing the experiment in an isolated, perfectly quiet environment and by employing digital sound sensors or microphones connected to an oscilloscope instead of relying on human hearing to find the loudest point of resonance.
+To significantly improve the accuracy of the final calculation and solve the huge discrepancy between the experimental and theory velocity, a greater number of resonance measurements should be taken and their differences averaged out to heavily reduce the impact of random error. The uncertainty in the pipe length measurements can be significantly reduced by using more precise digital measurement devices such as laser distance meters. The overall accuracy of determining the standing wave nodes could be greatly improved by conducting the experiment in an isolated and absolutely quiet environment and using digital sound sensors or microphones coupled to an oscilloscope instead of the human ear to determine the loudest point of resonance.
