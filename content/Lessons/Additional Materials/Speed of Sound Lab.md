@@ -39,8 +39,7 @@ The known frequency of the sound source used in this experiment was 343.78 Hz.
 |Third Resonance|113.1|1.131|
 
 ### Analysis
-
-To determine the wavelength of the sound wave, the difference in length between neighboring resonance points was calculated. The difference between the first and second resonance points was calculated as follows:
+The wavelength of the sound wave was found from the difference in length between adjacent points of resonance. The difference between the first and second resonance points was found as
 
 $$68.3 - 23.2 = 45.1 \text{ cm}$$
 
@@ -48,7 +47,7 @@ The difference between the second and third resonance points was calculated as f
 
 $$113.1 - 68.3 = 44.8 \text{ cm}$$
 
-The measurements gathered were highly consistent, but identifying the exact microscopic point of peak resonance purely by human hearing still introduces slight variation. Because the first pair of resonances was measured at the top of the tube where the sound was clearest, the difference of 45.1 cm was selected as the most reliable measurement for the wavelength calculation.
+The measurements taken were very consistent, but in trying to pin point the exact microscopic point of peak resonance by ear alone, there was still a little bit of variation. The first pair of resonances was measured at the top of the tube, where the sound was clearest and thus the difference of 45.1 cm was chosen as the most reliable measurement for the wavelength calculation.
 
 $$\Delta L = 0.451 \text{ m}$$
 
@@ -64,18 +63,15 @@ $$v = (343.78)(0.902)$$
 
 $$v = 310.1 \text{ m/s}$$
 
-This calculated experimental value of 310.1 m/s was compared with the theoretical speed of sound at room temperature, which is approximately 344 m/s. This yields an experimental percent error of roughly 9.8%. This level of error is highly expected in an open-air laboratory environment relying on auditory observations. The mathematical procedure successfully demonstrated that finding the nodes of standing waves inside a closed pipe can be used to determine the total wavelength and calculate a reasonable approximation of the speed of sound in air.
-
+The theoretical speed of sound at room temperature is about 344 m/s. This was compared to the experimentally obtained value of 310.1 m/s. This results in an experimental percent error of around 9.8%. Based on auditory observations, this level of error is very much to be expected in an open-air laboratory environment. The mathematical procedure was able to successfully show that the nodes of the standing waves inside a closed pipe could be used to find the total wavelength and to calculate a reasonable approximation of the speed of sound in air.
 ### Concluding Statements
-
 ##### Conclusion
-
-In this experiment, the principle of resonance within a closed pipe was successfully utilized to determine the wavelength of a specific sound wave and subsequently calculate the speed of sound in air. The measured resonant lengths physically demonstrated the theoretical standing wave pattern predicted for a closed pipe, confirming that resonance occurs exclusively at odd harmonics where antinodes meet the open air. By calculating the physical distance between the measured resonant nodes, the wavelength was isolated and determined to be 0.902 m. This wavelength was then used in conjunction with the 343.78 Hz source frequency to calculate the experimental speed of sound at 310.1 m/s. Although there was an acceptable 9.8% experimental error present in the final calculation, the overall procedure confirmed the direct physical relationship between wavelength, frequency, and wave speed for sound waves traveling through air.
+In this experiment, the principle of resonance in a closed pipe was successfully applied to determine the wavelength of a particular sound wave and subsequently compute the speed of sound in air. The resonant lengths measured in the physical system showed the theoretical standing wave pattern expected for a closed pipe, confirming that resonance occurs only at odd harmonics where antinodes meet the open air. The physical separation between the measured resonant nodes was calculated in order to isolate the wavelength and was found to be 0.902 m. This wavelength was then multiplied by the source frequency at 343.78 Hz to find the experimental speed of sound to be 310.1 m/s. Despite the 9.8% experimental error in the final calculation, the overall procedure confirmed the direct physical relationship between wavelength, frequency and wave speed for sound waves travelling through air.
 
 ##### Possible Sources of Error
 
-The 9.8% deviation from the accepted theoretical value of 344 m/s was primarily caused by the inherent difficulty in identifying the exact, peak point of resonance relying solely on subjective human hearing. A human ear cannot easily distinguish the exact millimeter where a sound is loudest. Additionally, "end correction" error plays a role; the antinode at the open end of a pipe actually forms slightly outside the physical tube, meaning our pure distance measurements slightly underestimate the true length of the wave. Furthermore, background noise in the laboratory environment made it difficult to isolate the tuning fork, and slight fluctuations in room temperature during the experiment could have altered the actual density of the air, subtly changing the true speed of sound as measurements were being taken.
+The 9.8% deviation from the accepted theoretical value of 344 m/s was largely due to the inherent difficulty in determining the precise, apex of resonance by simply using subjective human hearing. The human ear cannot easily determine where, to the millimeter, the sound is loudest. In addition, there's the "end correction" error. The antinode at the open end of a pipe is a little outside the physical tube, so our purely distance measurements are a little underestimating the real length of the wave. Moreover, the background noise in the laboratory setting made it difficult to isolate the tuning fork, and minor fluctuations in room temperature during the experiment could have affected the actual density of the air, subtly altering the true speed of sound as measurements were being taken.
 
 ##### Ways to Improve Accuracy
 
-To significantly improve the accuracy of the final calculation and bring the error closer to zero, a larger number of resonance measurements should be collected, and their physical differences should be averaged out to heavily reduce the impact of random observer error. Utilizing more precise digital measuring equipment, such as laser distance measurers, would drastically reduce the uncertainty present in the pipe length readings. The overall accuracy of identifying the standing wave nodes could be vastly improved by performing the experiment in an isolated, perfectly quiet environment and by employing digital sound sensors or microphones connected to an oscilloscope. This would provide a visual, objective measurement of the peak amplitude, rather than relying entirely on human hearing to find the loudest point of resonance.
+Taking more resonance measurements and averaging their physical differences would reduce the effect of random observer error a lot and greatly improve the accuracy of the final calculation, bringing the error closer to zero. By using better digital measurement tools such as a laser distance meter, the uncertainty in the pipe length readings will be greatly reduced. The precision of the location of the standing wave nodes could be significantly raised if the experiment was performed in an isolated, perfectly silent surrounding and digital sound sensors or microphones were used together with an oscilloscope. This would provide a visual, objective measurement of peak amplitude, rather than relying on human hearing to determine the loudest point of resonance.
