@@ -30,11 +30,7 @@ $$\begin{gather}P=0.3543 \cdot T_{C} \,+\,98.39\end{gather}$$
 ##### Finding the x-intercept
 $$\begin{gather}P=0 \\0.3543 \cdot T_{C} = -98.39 \\T_{C} = -277.7\,^{\circ}C\end{gather}$$
 ##### Calculating percent error
-$$\begin{aligned}
-\%\text{error} & = \left| \frac{{T_{exper.} - T_{theor.}}}{T_{theor.}} \right| \times 100\% = \\
-& = \left| \frac{{-277.7 + 273.15}}{-273.15} \right| \times 100\% = \\
-& = 1.67\%
-\end{aligned}$$
+$$\begin{aligned}\%\text{error} & = \left| \frac{{T_{exper.} - T_{theor.}}}{T_{theor.}} \right| \times 100\% = \\ & = \left| \frac{{-277.7 + 273.15}}{-273.15} \right| \times 100\% = \\ & = 1.67\%\end{aligned}$$
 
 ##### Why this experiment supports using the kelvin temperature scale?
 This experiment demonstrates a direct, linear relationship between gas pressure and Celsius temperature, showing that pressure decreases predictably as temperature drops. By extrapolating this line to the point where pressure reaches zero ($P = 0$), we find a theoretical absolute minimum temperature, which closely matches the established value for absolute zero. The Kelvin scale directly reflects this physical reality by shifting the zero point to this absolute minimum, making gas pressure directly proportional to temperature.
